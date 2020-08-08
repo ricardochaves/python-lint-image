@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 1.2.0
+
+Updated packges for:
+
+```bash
+    isort==5.3.2
+```
+
 ## 1.1.0
 
 Updated packges for:
