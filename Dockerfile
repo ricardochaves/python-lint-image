@@ -11,4 +11,4 @@ RUN apk add --no-cache \
     flake8==3.8.3 \
     black==19.10b0 \
     mypy==0.782 \
-    isort==4.3.21
+    isort==5.3.2
