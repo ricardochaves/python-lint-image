@@ -5,7 +5,7 @@ LABEL maintainer="ricardobchaves6@gmail.com"
 RUN apk add --no-cache \
     gcc \
     musl-dev && \
-    pip install pylint==2.5.3 \
+    pip install pylint==2.6.0 \
     pylint_django==2.3.0 \
     pycodestyle==2.6.0 \
     flake8==3.8.3 \

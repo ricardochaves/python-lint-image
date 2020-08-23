@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 1.3.0
+
+Updated packges for:
+
+```bash
+    pylint==2.6.0
+```
+
 ## 1.2.0
 
 Updated packges for:
