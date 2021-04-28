@@ -5,10 +5,10 @@ LABEL maintainer="ricardobchaves6@gmail.com"
 RUN apk add --no-cache \
     gcc \
     musl-dev && \
-    pip install pylint==2.6.0 \
-    pylint_django==2.3.0 \
-    pycodestyle==2.6.0 \
-    flake8==3.8.3 \
-    black==19.10b0 \
-    mypy==0.782 \
-    isort==5.3.2
+    pip install pylint==2.7.4 \
+    pylint_django==2.4.3 \
+    pycodestyle==2.7.0 \
+    flake8==3.9.1 \
+    black==20.8b1 \
+    mypy==0.812 \
+    isort==5.8.0
