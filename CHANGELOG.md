@@ -44,7 +44,7 @@ Updated packges for:
 
 ## 1.0.0
 
-First version whit:
+First version with:
 
 ```bash
     pylint==2.4.4
