@@ -9,6 +9,6 @@ RUN apk add --no-cache \
     pylint_django==2.4.3 \
     pycodestyle==2.7.0 \
     flake8==3.9.1 \
-    black==20.8b1 \
+    black==21.9b0 \
     mypy==0.812 \
     isort==5.8.0
