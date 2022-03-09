@@ -5,6 +5,7 @@ LABEL maintainer="ricardobchaves6@gmail.com"
 RUN apk add --no-cache \
     gcc \
     musl-dev && \
+    wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s v0.14.0 && \
     pip install pylint==2.7.4 \
     pylint_django==2.4.3 \
     pycodestyle==2.7.0 \
